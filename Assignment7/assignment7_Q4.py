@@ -17,5 +17,5 @@ num = int(input("Input an integer greater than 1: "))
 if is_prime(num) == True:
     print(num,' is a prime')
 elif is_prime(num) == False:
-    print(num,' is not prime')
+    print(num,' is not a prime')
 # Call the function here and print out the appropriate message
